@@ -48,4 +48,4 @@ An obstacle avoiding robot is an intelligent system capable of sensing its surro
 
 | Top View | Front View |
 |--------|----------|
-| ![Top](robot_top.jpg) | ![Front](robot_front.jpg) |
+| ![Top](robot_top.png) | ![Front](robot_front.png) |
